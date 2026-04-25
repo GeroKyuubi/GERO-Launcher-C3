@@ -155,12 +155,16 @@ void loop() {
 ```
 
 ## 📸 Pics
+<img width="1538" height="2048" alt="Case_SysyemMonitor" src="https://github.com/user-attachments/assets/4f610dc2-3c22-4a54-af5c-2413ec5b3a74" />
+<img width="1538" height="2048" alt="solo PBC montato" src="https://github.com/user-attachments/assets/c95d5b84-de33-4d38-a74f-b5c7149b741b" />
+
+
 
 ## STL Files
-
+https://makerworld.com/en/models/2679629-esp32-c3-mini-oled-display-for-case-for-7-3-cm#profileId-2967430
 
 ## Youtube
-
+https://www.youtube.com/shorts/mm-MAVwzelc
 
 
 
